@@ -15,10 +15,6 @@ homeLink.className = "header-link";
 homeLink.textContent = "Fivem Personnal Resources";
 
 homeText.appendChild(homeLink);
-
-
-div.appendChild(githubLink);
-div.appendChild(youtubeLink);
 div.appendChild(homeText);
 
 document.body.appendChild(div);
